@@ -1,0 +1,8 @@
+package.json
+HospitalServices.exe.exe.xml
+.advinst/*
+.build-tools*
+.build-tools
+list_id_drive_app.txt
+Log-*
+.azure/push.sh
